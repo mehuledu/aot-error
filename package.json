@@ -1,0 +1,54 @@
+{
+  "name": "aot-error",
+  "version": "1.0.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogusbi/aot-error.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mogusbi/aot-error/issues"
+  },
+  "homepage": "https://github.com/mogusbi/aot-error#readme",
+  "dependencies": {
+    "@angular/animations": "^4.3.3",
+    "@angular/common": "^4.3.3",
+    "@angular/core": "^4.3.3",
+    "@angular/forms": "^4.3.3",
+    "@angular/http": "^4.3.3",
+    "@angular/platform-browser": "^4.3.3",
+    "@angular/platform-browser-dynamic": "^4.3.3",
+    "@angular/platform-server": "^4.3.3",
+    "@angular/router": "^4.3.3",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.30",
+    "@ng-idle/core": "^2.0.0-beta.12",
+    "@ng-idle/keepalive": "^2.0.0-beta.12",
+    "@ngrx/core": "^1.2.0",
+    "@ngrx/store": "^4.0.2",
+    "angular2-jwt": "^0.2.3",
+    "bootstrap": "^4.0.0-alpha.6",
+    "core-js": "^2.4.1",
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "rxjs": "^5.4.2",
+    "zone.js": "^0.8.16"
+  },
+  "devDependencies": {
+    "@angular/compiler": "^4.3.3",
+    "@angular/compiler-cli": "^4.3.3",
+    "@mogusbi/gulp-starter": "github:mogusbi/gulp-starter#version2",
+    "@ngtools/webpack": "^1.5.5",
+    "angular-router-loader": "^0.6.0",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^3.2.2",
+    "express-history-api-fallback": "^2.2.1",
+    "html-loader": "^0.5.0",
+    "path": "^0.12.7",
+    "rev-replace-loader": "^0.1.4",
+    "tsconfig-paths": "^2.2.0",
+    "tslib": "^1.7.1",
+    "typescript": "^2.4.2",
+    "webpack": "^2.7.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
