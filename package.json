@@ -2,8 +2,7 @@
   "name": "aot-error",
   "version": "1.0.0",
   "scripts": {
-    "admin:build": "NODE_ENV=development npm run admin:gulp build",
-    "admin:build-aot": "NODE_ENV=production npm run admin:gulp build",
+    "admin:build": "NODE_ENV=production npm run admin:gulp build",
     "admin:gulp": "gulp --gulpfile packages/admin/gulpfile.js",
     "admin:scss-lint": "NODE_ENV=development npm run admin:gulp styles:lint",
     "admin:start": "NODE_ENV=development npm run admin:gulp",
